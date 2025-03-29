@@ -1,6 +1,8 @@
 
 
 import streamlit as st
+import random
+
 
 # Title & Introduction
 st.title("🚀 Growth Mindset Challenge")
